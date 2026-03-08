@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <option name="separateProdTestSources" value="true" />
+    <profile name="sbt 1" modules="practica-fcll-entrega,practica-fcll-entrega.main,practica-fcll-entrega.test,practica-scala_4737,practica-scala_4737.main,practica-scala_4737.test" />
+  </component>
+</project>
