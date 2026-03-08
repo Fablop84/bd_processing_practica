@@ -29,5 +29,5 @@ La práctica se divide en 5 ejercicios clave:
 
 ---
 **Autor:** [Fabian Camilo López L]  
-**Bootcamp:** [Nombre del Bootcamp] - Materia: BD-Processing
+**Bootcamp:** [KeepCoding BigData MachineLearning 16] - Materia: BD-Processing
 **Fecha:** Marzo 2026
